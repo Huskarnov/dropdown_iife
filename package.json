@@ -1,6 +1,6 @@
 {
-  "name": "dropdown_iife",
-  "version": "1.0.0",
+  "name": "@huskarnov/dropdown_iife",
+  "version": "1.0.1",
   "description": "dropdown button logic and menu dynam coordinates",
   "keywords": [
     "dropdown"
