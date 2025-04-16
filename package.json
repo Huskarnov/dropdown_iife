@@ -1,0 +1,23 @@
+{
+  "name": "dropdown_iife",
+  "version": "1.0.0",
+  "description": "dropdown button logic and menu dynam coordinates",
+  "keywords": [
+    "dropdown"
+  ],
+  "homepage": "https://github.com/Huskarnov/dropdown_iife#readme",
+  "bugs": {
+    "url": "https://github.com/Huskarnov/dropdown_iife/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Huskarnov/dropdown_iife.git"
+  },
+  "license": "ISC",
+  "author": "Huskarnov",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
